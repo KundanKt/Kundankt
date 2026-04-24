@@ -1,4 +1,4 @@
-# Hi there, I'm [Tumhara Naam]! 👋
+# Hi there, I'm Kundan KT! 👋
 
 ## 🚀 About Me
 I am a passionate **AI/ML Developer** focused on building intelligent systems that solve real-world problems. My expertise lies in creating robust, end-to-end solutions by integrating advanced algorithms across Machine Learning, Deep Learning, and Natural Language Processing.
