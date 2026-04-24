@@ -1,49 +1,47 @@
-# Hi there, I'm Kundan KT! 👋
+# Hi there, I'm Kundan Kt! 👋
 
 ## 🚀 About Me
-I am a passionate **AI/ML Developer** focused on building intelligent systems that solve real-world problems. My expertise lies in creating robust, end-to-end solutions by integrating advanced algorithms across Machine Learning, Deep Learning, and Natural Language Processing.
+I am a dedicated **AI/ML Developer** focused on building high-performance, intelligent systems. I specialize in creating robust, end-to-end solutions by integrating advanced algorithms across Machine Learning, NLP, and Agentic workflows.
 
-- 🧠 Exploring the mathematical foundations of **XGBoost** and other gradient boosting machines.
-- 🛠️ Currently working on integrating multiple ML models to build highly accurate and robust final products.
-- 📈 Constantly learning and staying updated with the latest research in **Deep Learning** and **NLP**.
+- 🧠 Deep diving into the mathematical foundations of **XGBoost Regressor** to build superior predictive models.
+- 🏗️ Currently focusing on **LangGraph** to build complex, stateful multi-agent systems.
+- ⚙️ Optimizing models using **ONNX** and leveraging **Rust** for high-performance data processing and safety.
+- 🛠️ Building integrated projects that combine multiple algorithms for maximum reliability.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🤖 Machine Learning & Deep Learning
+### 🤖 Core Technologies & Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=langchain&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 💬 Natural Language Processing (NLP)
-- Text Preprocessing & Tokenization
-- Sentiment Analysis & Named Entity Recognition (NER)
-- Transformer Models (BERT, GPT)
-- NLTK & Spacy
+### 💬 Natural Language Processing (NLP) & Agents
+- Agentic Workflows with LangGraph
+- Transformer Architecture & LLMs
+- Model Optimization & Quantization (ONNX)
+- Text Processing & Semantic Search
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🏗️ Integrated Machine Learning Pipeline
-*Developing a robust project that combines multiple algorithms (including XGBoost Regressor) to ensure high predictive performance and model stability.*
-- **Key Features:** Advanced feature engineering, model stacking, and hyperparameter optimization.
-- **Tools:** Python, XGBoost, Scikit-learn.
-
-*(Yahan apne baki projects ke links bhi add kar sakte ho)*
+### 🏗️ Robust Multi-Algorithm Pipeline
+*Developing a high-performance system that integrates multiple ML algorithms (including XGBoost) with a Rust-based data layer for maximum efficiency.*
+- **Key Features:** Model stacking, ONNX runtime optimization, and high-speed preprocessing.
+- **Tech:** LangGraph, Rust, XGBoost, ONNX.
 
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TUMHARA_USERNAME]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TUMHARA_USERNAME]&layout=compact&theme=radical)
+![Kundan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KundanKt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KundanKt&layout=compact&theme=radical)
 
 ---
 
-## 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](TUMHARA_LINKEDIN_URL)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />](TUMHARA_TWITTER_URL)
-
+## 🔗 Connect with me:
+[![Website](https://img.shields.io/badge/Portfolio-faozyokm-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-faozyokm.devinapps.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ktkumar72)
