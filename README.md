@@ -1,25 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Hi,+I'm+Kundan+Kt.;AI+%2F+ML+Developer;LangGraph+%26+Agentic+Workflows;Rust+%2B+ONNX+Optimization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Kundan+Kt.;AI+%2F+Backend+Engineer+(in+progress);Building+RAG+%26+Agentic+Systems;LangChain+%2B+FastAPI+%2B+Vector+Search" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <em>Designing intelligent systems at the intersection of Machine Learning and High-Performance Engineering.</em>
+  <em>B.Tech ECE student building production-style AI applications — one real system at a time.</em>
 </p>
 
 <div align="center">
-  <a href="https://portfolio-faozyokm.devinapps.com/"><img src="https://img.shields.io/badge/Portfolio-faozyokm-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://portfolio-faozyokm.devinapps.com/"><img src="https://img.shields.io/badge/Portfolio-View-2196F3?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ktkumar72"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/KundanKt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
-## 🚀 Executive Summary
+## 🚀 About Me
 
-I specialize in building robust, end-to-end AI solutions. By combining deep mathematical modeling with scalable software architecture, I create systems that are not just accurate, but also highly performant in production environments.
+I'm currently building real, working AI applications rather than just studying theory — starting with Retrieval-Augmented Generation (RAG) pipelines and multi-agent workflows, backed by backend APIs that can actually ship.
 
-* **Architecting Intelligence:** Building complex, stateful multi-agent systems utilizing **LangGraph**.
-* **Performance & Safety:** Leveraging **Rust** and **ONNX** to optimize model inference and ensure memory-safe data processing.
-* **Algorithmic Depth:** Exploring the core mathematical foundations of **XGBoost Regressor** to design superior, multi-algorithm predictive pipelines.
+* **Building with RAG:** Designing retrieval pipelines — chunking, embeddings, and semantic search — using LangChain and vector search.
+* **Agentic Workflows:** Exploring stateful, multi-step agent systems with LangGraph.
+* **Backend Foundations:** Shipping APIs with FastAPI, focused on clean, production-style backend design.
+* **Currently Deepening:** Core Data Structures & Algorithms and vector-search math (cosine similarity, embeddings, HNSW) — self-taught, in progress.
 
 ---
 
@@ -27,35 +29,44 @@ I specialize in building robust, end-to-end AI solutions. By combining deep math
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><b>Machine Learning & AI</b></td>
-    <td align="center" width="33%"><b>System & Optimization</b></td>
-    <td align="center" width="33%"><b>NLP & Agents</b></td>
+    <td align="center" width="33%"><b>Languages & Backend</b></td>
+    <td align="center" width="33%"><b>GenAI & NLP</b></td>
+    <td align="center" width="33%"><b>Tools</b></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td align="center">
+      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=langchain&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LLMs-4B32C3?style=flat-square&logo=openai&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Semantic_Search-FF9900?style=flat-square&logo=elasticsearch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vector_Search-FF9900?style=flat-square&logo=elasticsearch&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏗️ Engineering Philosophy & Workflow
+## 🏗️ How I Build
 
-When building a project, I focus on a highly robust pipeline to ensure maximum reliability and speed:
-`Data Ingestion (Rust)` ➔ `Model Training (XGBoost/Scikit)` ➔ `Quantization (ONNX)` ➔ `Agentic Orchestration (LangGraph)`
+`Document Ingestion` ➔ `Chunking & Embeddings` ➔ `Vector Search (pgvector)` ➔ `RAG / Agent Orchestration (LangChain + LangGraph)` ➔ `FastAPI Backend`
+
+---
+
+## 🧩 Featured Projects
+
+**SiteVaani** — *Python*
+A WhatsApp-based assistant for the construction industry, answering domain-specific queries. Currently in active development.
+
+**Multi-Agent Conversational System** — *Python, LangGraph, LangChain*
+A multi-agent workflow exploring stateful, branching conversation logic using LangGraph, with custom tools and memory state for multi-step interactions.
 
 ---
 
