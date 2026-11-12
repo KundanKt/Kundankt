@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- 3D Animated Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,45:1e3a8a,100:0284c7&height=210&section=header&text=Kundan%20Kumar%20Thakur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%E2%80%A2%20Agentic%20%26%20Hybrid%20RAG%20Systems%20Architect&descAlignY=58&descSize=17" alt="Header Banner" />
+<!-- Verified 3D Animated Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=190&section=header&text=Kundan%20Kumar%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Agentic%20%26%20Hybrid%20RAG%20Architect&descAlignY=58&descSize=17" alt="Kundan Kumar Thakur" />
 
-<!-- Animated Terminal Typing SVG -->
+<!-- Verified Animated Typing SVG -->
 <a href="https://github.com/KundanKt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=%F0%9F%A7%A0+100%25+Docs-First+AI+Engineer+(Zero+Tutorial+Courses);%F0%9F%94%8D+Zero-LLM+PDF+Hybrid+Search+(BM25+%2B+Dense+Vectors+%2B+Visual+Proof);%F0%9F%95%B8%EF%B8%8F+Stateful+Multi-Agent+Architectures+with+LangGraph+%26+LangChain;%E2%9A%A1+Transformers+%E2%80%A2+NLP+%E2%80%A2+Model+%26+Token+Optimization+(INT8+%2F+QLoRA);%F0%9F%9A%80+Shipping+Production+AI+Backends+with+Python+%26+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=100%25+Docs-First+AI+Engineer+(Zero+Tutorial+Courses);No-LLM+PDF+Hybrid+Search+(BM25+%2B+Dense+Vectors+%2B+Visual+Proof);Stateful+Multi-Agent+Architectures+with+LangGraph+%26+LangChain;Transformers+%7C+NLP+%7C+Model+%26+Token+Optimization+(INT8+%2F+QLoRA);Shipping+Production+AI+Backends+with+Python+%26+FastAPI" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <em>Final-Year B.Tech ECE Undergraduate @ Chaibasa Engineering College (JUT) — Architecting production-grade AI systems from official documentation & research papers.</em>
 </p>
 
-<!-- 3D Action Badges -->
+<!-- Contact & Profile Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ktkumar72/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -186,13 +186,14 @@ flowchart LR
 ## 📊 3D GitHub Telemetry & Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KundanKt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=cbd5e1" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KundanKt&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KundanKt&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
 <div align="center">
-  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=KundanKt&bg_color=0d1117&color=38bdf8&line=10b981&point=f8fafc&area=true&hide_border=true" alt="Contribution Graph" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KundanKt&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KundanKt&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KundanKt&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<!-- 3D Animated Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e3a8a,100:0a0f1d&height=110&section=footer" alt="Footer Banner" />
+<!-- Verified 3D Animated Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer" alt="Footer Banner" />
