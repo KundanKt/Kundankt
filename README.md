@@ -1,113 +1,198 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=55&lines=Hi%2C+I'm+Kundan+Kumar+Thakur;AI+Software+Engineer+%7C+Systems+Architect;Building+Production+Agentic+%26+RAG+Systems;LangGraph+%2B+Hybrid+Vector+Search+%2B+FastAPI;Transformers+%7C+NLP+%7C+Model+Optimization" alt="Typing SVG" />
-</div>
+
+<!-- 3D Animated Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,45:1e3a8a,100:0284c7&height=210&section=header&text=Kundan%20Kumar%20Thakur&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%E2%80%A2%20Agentic%20%26%20Hybrid%20RAG%20Systems%20Architect&descAlignY=58&descSize=17" alt="Header Banner" />
+
+<!-- Animated Terminal Typing SVG -->
+<a href="https://github.com/KundanKt">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=%F0%9F%A7%A0+100%25+Docs-First+AI+Engineer+(Zero+Tutorial+Courses);%F0%9F%94%8D+Zero-LLM+PDF+Hybrid+Search+(BM25+%2B+Dense+Vectors+%2B+Visual+Proof);%F0%9F%95%B8%EF%B8%8F+Stateful+Multi-Agent+Architectures+with+LangGraph+%26+LangChain;%E2%9A%A1+Transformers+%E2%80%A2+NLP+%E2%80%A2+Model+%26+Token+Optimization+(INT8+%2F+QLoRA);%F0%9F%9A%80+Shipping+Production+AI+Backends+with+Python+%26+FastAPI" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <em>Final-Year B.Tech ECE Undergraduate · Designing production-grade Agentic AI, Hybrid RAG, and Optimized Model Architectures from official documentation (Zero Tutorial Courses).</em>
+  <em>Final-Year B.Tech ECE Undergraduate @ Chaibasa Engineering College (JUT) — Architecting production-grade AI systems from official documentation & research papers.</em>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ktkumar72/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/KundanKt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:kundank204@gmail.com"><img src="https://img.shields.io/badge/Email-kundank204%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- 3D Action Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ktkumar72/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KundanKt">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:kundank204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kundank204%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-## ⚡ About Me & Engineering Philosophy
+## ⚡ Engineering DNA — Why I Build Without Courses
 
-I am an **AI Software Engineer (Fresher)** focused on designing and shipping real, production-ready AI architectures end-to-end rather than relying on fragile boilerplate wrappers.
-
-* **📖 100% Documentation-First Builder (Zero Courses):** I do not learn from tutorial courses. Every system I build is engineered by reading official documentation, API specifications, and research papers directly, then implementing the architecture from scratch.
-* **🕸️ Stateful Agentic Architectures:** Designing complex, cyclic multi-agent workflows using **LangGraph** and **LangChain** with conditional state routing, custom tool-calling nodes, self-correction loops, and persistent checkpointed memory.
-* **🔍 Hybrid Search & Production RAG:** Building high-precision retrieval pipelines combining **BM25 lexical search** and **dense vector embeddings** (`pgvector`, `Qdrant`, `HNSW`, Cosine Similarity, Reciprocal Rank Fusion), semantic token chunking, and cross-encoder reranking.
-* **🧠 Deep Learning, NLP & Model Optimization:** Grounded in **Transformer self-attention mechanics**, core NLP tokenization, extractive QA, context-window token pruning, model quantization (`FP16` / `INT8` / `4-bit NF4`), and parameter-efficient fine-tuning (`LoRA` / `QLoRA`).
-* **🚀 Production Backend Delivery:** Wrapping AI pipelines and chat models into clean, asynchronous, schema-validated **FastAPI** services with streaming responses and webhook integrations.
+```yaml
+Name               : Kundan Kumar Thakur
+Role               : AI Software Engineer (Fresher) | Systems & Agentic Architect
+Education          : B.Tech in ECE (4th Year) — Chaibasa Engineering College (JUT)
+Learning Approach  : 100% Official Documentation, Specs & Research Papers (Zero Courses)
+Core Focus         : Hybrid Search (BM25 + Vectors), Stateful LangGraph Agents, RAG & Model Optimization
+Contact            : kundank204@gmail.com | +91-7321897266 / +91-8863971299
+```
 
 ---
 
-## 🛠️ Core Technical Arsenal
+## 🛠️ 3D Technical Arsenal
 
-<table align="center" width="100%">
+<div align="center">
+
+### Core Languages, Frameworks & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,git,github,linux,vscode&perline=8&theme=dark" alt="3D Skill Icons" />
+</p>
+
+### AI, Agentic Orchestration, Retrieval & Optimization Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Stateful_Cycles-1C3C3C?style=for-the-badge&logo=langchain&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/LangChain-Agent_Pipelines-121212?style=for-the-badge&logo=langchain&logoColor=10B981" />
+  <img src="https://img.shields.io/badge/pgvector-HNSW_%26_Cosine-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-Hybrid_RRF-DC2626?style=for-the-badge" />
+  <br/>
+  <img src="https://img.shields.io/badge/BM25_%2B_Dense_Vectors-Hybrid_Search-F59E0B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-Self--Attention_%26_NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Model_Optimization-INT8_%7C_FP16_%7C_QLoRA-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Token_Engineering-Semantic_Chunking_%26_Pruning-6366F1?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## 🏗️ System Architectures (Visual Blueprints)
+
+### 1️⃣ Zero-LLM PDF Hybrid Search & Visual Proof Engine
+> **80%–90% Retrieval Precision · 0% Generative Hallucination · Verifiable Page Screenshot & Highlight Proof**
+
+```mermaid
+flowchart LR
+    A["📄 PDF Upload<br/>(pypdfium2 150 DPI)"] --> B["📐 Spatial BBox &<br/>Token Chunker"]
+    B --> C["🔤 Sparse BM25<br/>Lexical Index"]
+    B --> D["🧭 Dense Vector<br/>Embeddings (BGE-M3)"]
+    C --> E["⚡ Reciprocal Rank<br/>Fusion (RRF) + Reranker"]
+    D --> E
+    E --> F["🎯 Extractive QA &<br/>Confidence Gate (No-LLM)"]
+    F --> G["✅ Verifiable Output<br/>• Highlighted Snippet<br/>• Page Screenshot Proof<br/>• A–Z Page Numbers"]
+
+    classDef ingest fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
+    classDef search fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#fef3c7
+    classDef fuse fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
+    classDef proof fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
+
+    class A,B ingest
+    class C,D search
+    class E,F fuse
+    class G proof
+```
+
+### 2️⃣ Stateful Multi-Agent & Production RAG Architecture (`LangGraph`)
+> **Cyclic StateGraph · Conditional Routing · Custom Tool Loops · Checkpointed Memory**
+
+```mermaid
+flowchart LR
+    U["💬 User Turn<br/>+ thread_id"] --> S["🧠 Supervisor Router<br/>(LangGraph StateGraph)"]
+    S -->|Retrieve Context| R["🔍 Hybrid Vector RAG<br/>(pgvector HNSW)"]
+    S -->|Invoke Tool| T["🛠️ Custom Python<br/>Tool Executor"]
+    R --> O["✂️ Context Packing &<br/>Token Optimization"]
+    T -->|Retry / Verify| S
+    T --> O
+    O --> M["💾 Checkpointed Memory<br/>+ FastAPI Async Stream"]
+
+    classDef entry fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
+    classDef graph fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
+    classDef nodes fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
+    classDef out fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#faf5ff
+
+    class U entry
+    class S graph
+    class R,T,O nodes
+    class M out
+```
+
+---
+
+## 🧩 Featured Production Systems
+
+<table width="100%">
   <tr>
-    <td align="center" width="25%"><b>Agentic AI & Orchestration</b></td>
-    <td align="center" width="25%"><b>RAG & Vector Systems</b></td>
-    <td align="center" width="25%"><b>DL, NLP & Optimization</b></td>
-    <td align="center" width="25%"><b>Backend & Infrastructure</b></td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 1. No-LLM PDF Hybrid Search Engine</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LLM_Used-0%25_(Pure_Retrieval)-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Relevance-80%25--90%25-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Proof-BBox_Screenshot-F59E0B?style=flat-square" />
+      </p>
+      <p>
+        An ultra-fast, <b>zero-LLM document intelligence engine</b> designed to fetch <b>80%–90% relevant content</b> from uploaded PDFs with verifiable visual proof and zero hallucination.
+      </p>
+      <ul>
+        <li><b>Hybrid Retrieval:</b> Combines sparse <code>BM25</code> keyword search with dense vector retrieval (<code>BGE-M3</code> / <code>Qdrant</code>) via Reciprocal Rank Fusion (RRF).</li>
+        <li><b>Extractive QA Gate:</b> Isolates exact verbatim spans with a non-generative confidence threshold.</li>
+        <li><b>3-Fold Proof:</b> Returns <b>highlighted matching text</b>, <b>rendered 150 DPI page screenshot excerpts</b> with yellow bounding boxes, and <b>complete A-to-Z page numbers</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🕸️ 2. Stateful Multi-Agent System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Orchestration-LangGraph-1C3C3C?style=flat-square&logo=langchain" />
+        <img src="https://img.shields.io/badge/State-Cyclic_Graph-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi" />
+      </p>
+      <p>
+        A branching, stateful multi-agent conversational architecture built with <b>LangGraph</b> and <b>LangChain</b> for complex multi-step reasoning.
+      </p>
+      <ul>
+        <li><b>Typed StateGraph:</b> Shared state schema tracking conversation history, retrieved documents, and tool outputs.</li>
+        <li><b>Conditional Edge Routing:</b> Supervisor node dynamically routes execution between specialized sub-agents and custom Python tools with self-correction loops.</li>
+        <li><b>Persistent Memory:</b> Thread-level checkpointing maintains context across long multi-turn sessions.</li>
+      </ul>
+    </td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Stateful_Agents-0A66C2?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Tool_Calling_%26_Memory-2E7D32?style=flat-square" />
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ 3. SiteVaani — Construction AI Assistant</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Domain-Civil_%26_Construction-D97706?style=flat-square" />
+        <img src="https://img.shields.io/badge/Channel-WhatsApp_Webhooks-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+      </p>
+      <p>
+        A domain-specific AI assistant for the construction industry that resolves on-site civil and material estimation queries over WhatsApp using FastAPI webhooks and domain-grounded RAG retrieval.
+      </p>
     </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Hybrid_Search_(BM25_%2B_Dense)-FF6F00?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/HNSW_%26_Embeddings-4A148C?style=flat-square" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Transformers_%26_Attention-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Quantization_(FP16_%2F_INT8)-00695C?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/LoRA_%2F_QLoRA_%26_Token_Opt-37474F?style=flat-square" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git_%26_REST_APIs-F05032?style=flat-square&logo=git&logoColor=white" />
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ 4. Model & Token Optimization Lab</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Foundations-Transformers_%26_DL-EE4C2C?style=flat-square&logo=pytorch" />
+        <img src="https://img.shields.io/badge/Efficiency-INT8_%7C_LoRA_%7C_QLoRA-059669?style=flat-square" />
+      </p>
+      <p>
+        Hands-on engineering of Transformer self-attention mechanics, semantic token windowing, context compression, prompt caching, and <code>FP16</code>/<code>INT8</code>/<code>4-bit QLoRA</code> optimization built directly from official specs.
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏗️ How I Architect AI Systems
-
-**1. Stateful Agentic & RAG Pipeline:**
-`Document Ingestion & Tokenization` ➔ `Semantic Chunking & Dense Embeddings` ➔ `Hybrid Vector Search (pgvector / HNSW)` ➔ `Context Pruning & Reranking` ➔ `LangGraph Stateful Agent Orchestration` ➔ `Async FastAPI Streaming API`
-
-**2. Verifiable Zero-LLM Document Retrieval Pipeline:**
-`PDF Upload & Spatial BBox Parsing` ➔ `Dual-Stream Search (BM25 + Dense Vectors)` ➔ `RRF Fusion & Cross-Encoder Reranking` ➔ `Extractive QA & Confidence Gate` ➔ `Highlighted Snippet + Page Screenshot Proof + Exact Page Numbers`
-
----
-
-## 🧩 Featured Engineering Projects
-
-### 1. 🔍 PDF Hybrid Search & Visual Proof Engine *(Zero-LLM Document Intelligence)*
-* **Stack:** `Python` · `FastAPI` · `BM25 Lexical Search` · `Dense Vector Retrieval (BGE-M3 / Qdrant)` · `Extractive QA` · `pypdfium2 / Pillow`
-* **Architecture:** A deterministic, **no-LLM document search engine** engineered to eliminate generative hallucinations. Combines sparse BM25 keyword search with dense semantic embeddings via Reciprocal Rank Fusion (RRF) to achieve **80%–90% retrieval relevance** on uploaded PDFs.
-* **Verifiable Proof:** For every search query, the engine extracts exact verbatim content along with **highlighted text spans, rendered page screenshot excerpts with bounding-box overlays, and complete A-to-Z page number indexing**.
-
-### 2. 🕸️ Stateful Multi-Agent Conversational System
-* **Stack:** `Python` · `LangGraph` · `LangChain` · `FastAPI` · `PostgreSQL`
-* **Architecture:** A cyclic, stateful multi-agent workflow built with `LangGraph` featuring a supervisor router node, conditional branching edges, custom Python tool execution with retry loops, and persistent checkpointed memory state across multi-turn interactions.
-
-### 3. 🏗️ SiteVaani — Domain AI Assistant for Construction
-* **Stack:** `Python` · `FastAPI` · `RAG Pipeline` · `Vector Search` · `WhatsApp Webhooks`
-* **Architecture:** A domain-specific AI assistant for the construction industry that resolves on-site civil and material queries over WhatsApp, backed by semantic retrieval and context-bounded generation.
-
----
-
-## 🎓 Education
-
-* **B.Tech in Electronics & Communication Engineering (ECE)** — *4th Year (Final Year)*
-  **Chaibasa Engineering College** *(Affiliated to Jharkhand University of Technology)*
-
----
-
-## 📊 GitHub Analytics
+## 📊 3D GitHub Telemetry & Analytics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=KundanKt&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3&text_color=777777" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KundanKt&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Top Languages" /></td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KundanKt&theme=transparent&hide_border=true&color=2196F3&line=2196F3&point=2196F3&area=true&order=5" alt="Activity Graph" width="85%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KundanKt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=10b981&text_color=cbd5e1" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=KundanKt&theme=tokyonight&hide_border=true&background=0D1117&stroke=1E293B&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=KundanKt&bg_color=0d1117&color=38bdf8&line=10b981&point=f8fafc&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<!-- 3D Animated Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:1e3a8a,100:0a0f1d&height=110&section=footer" alt="Footer Banner" />
