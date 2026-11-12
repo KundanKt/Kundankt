@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- Verified 3D Animated Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=190&section=header&text=Kundan%20Kumar%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Agentic%20%26%20Hybrid%20RAG%20Architect&descAlignY=58&descSize=17" alt="Kundan Kumar Thakur" />
+<!-- XML-Validated 3D Animated Waving Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=190&section=header&text=Kundan%20Kumar%20Thakur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Agentic%20and%20Hybrid%20RAG%20Architect&descAlignY=58&descSize=17" alt="Kundan Kumar Thakur" />
 
 <!-- Verified Animated Typing SVG -->
 <a href="https://github.com/KundanKt">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=100%25+Docs-First+AI+Engineer+(Zero+Tutorial+Courses);No-LLM+PDF+Hybrid+Search+(BM25+%2B+Dense+Vectors+%2B+Visual+Proof);Stateful+Multi-Agent+Architectures+with+LangGraph+%26+LangChain;Transformers+%7C+NLP+%7C+Model+%26+Token+Optimization+(INT8+%2F+QLoRA);Shipping+Production+AI+Backends+with+Python+%26+FastAPI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&height=50&lines=100%25+Docs-First+AI+Engineer+(Zero+Tutorial+Courses);No-LLM+PDF+Hybrid+Search+(BM25+%2B+Dense+Vectors+%2B+Visual+Proof);Stateful+Multi-Agent+Architectures+with+LangGraph+%2B+LangChain;Transformers+%7C+NLP+%7C+Model+and+Token+Optimization+(INT8+%2F+QLoRA);Shipping+Production+AI+Backends+with+Python+%2B+FastAPI" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <em>Final-Year B.Tech ECE Undergraduate @ Chaibasa Engineering College (JUT) — Architecting production-grade AI systems from official documentation & research papers.</em>
+  <em>Final-Year B.Tech ECE Undergraduate @ Chaibasa Engineering College (JUT) — Architecting production-grade AI systems from official documentation and research papers.</em>
 </p>
 
 <!-- Contact & Profile Badges -->
@@ -75,23 +75,23 @@ Contact            : kundank204@gmail.com | +91-7321897266 / +91-8863971299
 
 ```mermaid
 flowchart LR
-    A["📄 PDF Upload<br/>(pypdfium2 150 DPI)"] --> B["📐 Spatial BBox &<br/>Token Chunker"]
-    B --> C["🔤 Sparse BM25<br/>Lexical Index"]
-    B --> D["🧭 Dense Vector<br/>Embeddings (BGE-M3)"]
-    C --> E["⚡ Reciprocal Rank<br/>Fusion (RRF) + Reranker"]
+    A["📄 PDF Upload (pypdfium2 150 DPI)"] --> B["📐 Spatial BBox + Token Chunker"]
+    B --> C["🔤 Sparse BM25 Lexical Index"]
+    B --> D["🧭 Dense Vector Embeddings (BGE-M3)"]
+    C --> E["⚡ Reciprocal Rank Fusion (RRF) + Reranker"]
     D --> E
-    E --> F["🎯 Extractive QA &<br/>Confidence Gate (No-LLM)"]
-    F --> G["✅ Verifiable Output<br/>• Highlighted Snippet<br/>• Page Screenshot Proof<br/>• A–Z Page Numbers"]
+    E --> F["🎯 Extractive QA + Confidence Gate (No-LLM)"]
+    F --> G["✅ Verifiable Output: Highlight + Screenshot + Page No."]
 
-    classDef ingest fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
-    classDef search fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#fef3c7
-    classDef fuse fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
-    classDef proof fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
+    classDef ingestNode fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
+    classDef searchNode fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#fef3c7
+    classDef fuseNode fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
+    classDef proofNode fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
 
-    class A,B ingest
-    class C,D search
-    class E,F fuse
-    class G proof
+    class A,B ingestNode
+    class C,D searchNode
+    class E,F fuseNode
+    class G proofNode
 ```
 
 ### 2️⃣ Stateful Multi-Agent & Production RAG Architecture (`LangGraph`)
@@ -99,23 +99,23 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    U["💬 User Turn<br/>+ thread_id"] --> S["🧠 Supervisor Router<br/>(LangGraph StateGraph)"]
-    S -->|Retrieve Context| R["🔍 Hybrid Vector RAG<br/>(pgvector HNSW)"]
-    S -->|Invoke Tool| T["🛠️ Custom Python<br/>Tool Executor"]
-    R --> O["✂️ Context Packing &<br/>Token Optimization"]
+    U["💬 User Turn + thread_id"] --> S["🧠 Supervisor Router (LangGraph StateGraph)"]
+    S -->|Retrieve Context| R["🔍 Hybrid Vector RAG (pgvector HNSW)"]
+    S -->|Invoke Tool| T["🛠️ Custom Python Tool Executor"]
+    R --> O["✂️ Context Packing + Token Optimization"]
     T -->|Retry / Verify| S
     T --> O
-    O --> M["💾 Checkpointed Memory<br/>+ FastAPI Async Stream"]
+    O --> M["💾 Checkpointed Memory + FastAPI Async Stream"]
 
-    classDef entry fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
-    classDef graph fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
-    classDef nodes fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
-    classDef out fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#faf5ff
+    classDef entryNode fill:#0f172a,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
+    classDef routerNode fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5
+    classDef workerNode fill:#1e1b4b,stroke:#818cf8,stroke-width:2px,color:#e0e7ff
+    classDef outNode fill:#3b0764,stroke:#c084fc,stroke-width:2px,color:#faf5ff
 
-    class U entry
-    class S graph
-    class R,T,O nodes
-    class M out
+    class U entryNode
+    class S routerNode
+    class R,T,O workerNode
+    class M outNode
 ```
 
 ---
@@ -195,5 +195,5 @@ flowchart LR
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KundanKt&theme=tokyonight" alt="Top Languages" />
 </div>
 
-<!-- Verified 3D Animated Waving Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=footer" alt="Footer Banner" />
+<!-- XML-Validated 3D Animated Waving Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,100:0f172a&height=110&section=footer" alt="Footer Banner" />
