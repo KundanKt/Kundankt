@@ -37,7 +37,7 @@ Role               : AI Software Engineer (Fresher) | Systems & Agentic Architec
 Education          : B.Tech in ECE (4th Year) — Chaibasa Engineering College (JUT)
 Learning Approach  : 100% Official Documentation, Specs & Research Papers (Zero Courses)
 Core Focus         : Hybrid Search (BM25 + Vectors), Stateful LangGraph Agents, RAG & Model Optimization
-Contact            : kundank204@gmail.com | +91-7321897266 / +91-8863971299
+Contact            : kundank204@gmail.com |
 ```
 
 ---
